@@ -1,0 +1,15 @@
+# String initialization
+a = "Computer"
+b = "Science"
+c = """Python String Practice"""
+
+print(f"a = {a}")
+print(f"b = {b}")
+print(f"c = {c}")
+print()
+
+# OUTPUT
+a = Computer
+b = Science
+c = Python String Practice
+
